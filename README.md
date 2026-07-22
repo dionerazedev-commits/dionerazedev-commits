@@ -59,6 +59,9 @@ Backend Engineering       APIs, authentication, databases, and business logic
 AI Automation             AI agents, intelligent workflows, and assistants
 System Integration        APIs, webhooks, CRMs, and third-party platforms
 Cloud Deployment          Production deployments, environments, and monitoring
+```
+
+---
 
 🛠️ Technology Stack
 Languages
@@ -145,96 +148,60 @@ Technology
 n8n Claude WhatsApp Google Sheets Webhooks
 
 <br/> <img src="https://img.shields.io/badge/Status-Case%20Study-238636?style=for-the-badge" alt="Case study" /> </td> </tr> <tr> <td width="50%" valign="top">
-📞 AI Voice Receptionist
+<tr>
+<td colspan="2" valign="top">
+
+### 📞 AI Voice Receptionist
 
 An automated voice reception system designed to answer customer calls, check availability, and manage appointments.
 
-Key features
+**Key features**
 
-Availability checking
-Booking creation
-Appointment updates
-Cancellation handling
-Call recording and metadata
-Automated customer assistance
+- Availability checking
+- Booking creation
+- Appointment updates
+- Cancellation handling
+- Call recording and metadata
+- Automated customer assistance
 
-Technology
+**Technology**
 
-n8n AI Voice Airtable APIs Webhooks
+`n8n` `AI Voice` `Airtable` `APIs` `Webhooks`
 
-<br/> <img src="https://img.shields.io/badge/Status-Case%20Study-238636?style=for-the-badge" alt="Case study" /> </td> <td width="50%" valign="top">
-📅 BookWise
+<br/>
 
-A complete booking management platform with customer booking pages, account portals, and administrative tools.
+<img src="https://img.shields.io/badge/Status-Case%20Study-238636?style=for-the-badge" alt="Case study" />
 
-Key features
+</td>
+</tr>
+</table>
 
-Public booking interface
-Customer account portal
-Administrative dashboard
-Schedule management
-Booking status tracking
-Database-driven workflows
+---
 
-Technology
+## 📫 Connect With Me
 
-React TypeScript Supabase PostgreSQL Vercel
+<p align="center">
+  <a href="https://dione-works.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-dione--works.vercel.app-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 
-<br/> <img src="https://img.shields.io/badge/Status-In%20Development-D29922?style=for-the-badge" alt="In development" /> </td> </tr> </table>
-🧠 How I Approach Development
+  <a href="mailto:dioneraze.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dioneraze.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-I aim to build systems that are functional, understandable, secure, maintainable, and useful in real business environments.
+---
 
-01. Understand the user and business problem
-02. Define the project requirements and success criteria
-03. Design the application, user flow, and data structure
-04. Select the simplest reliable architecture
-05. Build reusable and maintainable components
-06. Validate inputs and protect sensitive information
-07. Test important user journeys and edge cases
-08. Document the system and deployment process
-09. Monitor performance and resolve issues
-10. Improve the product based on real feedback
-Engineering principles
-Solve real user and business problems
-Keep code organized and understandable
-Avoid unnecessary complexity
-Protect credentials and sensitive information
-Use clear database structures and API contracts
-Build responsive and accessible interfaces
-Handle errors and unexpected inputs
-Document setup, configuration, and deployment
-Continuously test, measure, and improve
-🔭 Currently Exploring
-Production-ready AI agents
-Agentic business workflows
-Retrieval-augmented generation
-Local and open-source language models
-Scalable backend architecture
-Supabase Row Level Security
-PostgreSQL optimization
-Docker-based deployments
-Workflow monitoring and error handling
-AI-powered internal business tools
-💼 Open to Opportunities
-
-I'm currently open to freelance projects, collaborations, and opportunities involving:
-
-Full-stack web development
-AI automation and AI agents
-Workflow automation
-API development and integration
-CRM and business system integration
-Internal tools and dashboards
-Booking and customer support systems
-Startup MVP development
-📫 Connect With Me
-<p> <a href="https://dione-works.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-dione--works.vercel.app-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="mailto:dioneraze.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-dioneraze.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 <div align="center">
-Build. Learn. Improve. Repeat.
+
+### Build. Learn. Improve. Repeat.
 
 Developing useful software and intelligent systems from the Philippines 🇵🇭
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer" width="100%" alt="Footer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
-</div> ```
+</div>
