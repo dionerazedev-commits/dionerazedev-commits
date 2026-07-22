@@ -1,10 +1,10 @@
 # Hi, I'm Dione 👋
 
-I'm a 19-year-old **AI Automation and Full-Stack Developer from the Philippines**.
+I'm an **AI Automation and Full-Stack Developer from the Philippines**.
 
-I stepped away from college to pursue freelancing and focus on building real-world projects using AI, automation, and modern web technologies. I enjoy turning ideas and everyday business problems into practical digital solutions.
+I stepped away from college to pursue freelancing and gain hands-on experience by building real-world AI automation and web development projects.
 
-Outside of coding, I love traveling, exploring new places, meeting new people, and experiencing different cultures. My goal is to build a career that allows me to create, travel, and continuously learn.
+I enjoy turning business problems into practical digital solutions. Outside of coding, I love traveling, experiencing different cultures, and documenting my adventures.
 
 ## 🚀 What I Build
 
