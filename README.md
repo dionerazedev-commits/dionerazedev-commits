@@ -17,27 +17,16 @@ I enjoy turning business problems into practical digital solutions. Outside of c
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-TypeScript · JavaScript · PHP · HTML · CSS · SQL
-
-**Frontend Development**  
-React · Next.js · Tailwind CSS · Responsive Web Design
-
-**Backend & Databases**  
-Node.js · PHP · REST APIs · Supabase · Firebase · PostgreSQL · MySQL · Prisma
-
-**AI & Automation**  
-OpenAI · Claude · AI Agents · Prompt Engineering · n8n · Make · Zapier · Pabbly
-
-**Integrations**  
-Webhooks · API Integrations · Google Workspace APIs · WhatsApp Automation · Airtable
-
-**Tools & Deployment**  
-Git · GitHub · Docker · Vercel · Render · Postman · VS Code · Cursor · Claude Code · Codex
-
-**Business Platforms**  
-HubSpot · GoHighLevel · Airtable · Notion · ClickUp · Trello
-
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-000?logo=php)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
+![Supabase](https://img.shields.io/badge/Supabase-000?logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+![n8n](https://img.shields.io/badge/n8n-000?logo=n8n)
 ## 🌟 Featured Projects
 
 ### [Dione Works](https://dione-works.vercel.app/)
