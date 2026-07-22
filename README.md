@@ -40,19 +40,20 @@ HubSpot · GoHighLevel · Airtable · Notion · ClickUp · Trello
 
 ## 🌟 Featured Projects
 
-### Dione Works
+### [Dione Works](https://dione-works.vercel.app/)
+My developer portfolio showcasing AI automation, API integrations, and full-stack applications.
 
-My professional portfolio showcasing my full-stack development and AI automation projects.
-
-🌐 **Live Website:** https://dione-works.vercel.app/
+**Tech:** Next.js · TypeScript · React · Vercel
 
 ### Migo
-
 A social travel platform for planning trips, sharing travel experiences, and tracking visited countries and provinces.
 
-### AI Booking Agent
+**Tech:** React · Supabase · TypeScript · AI APIs
 
-An AI-powered assistant that handles bookings, cancellations, customer inquiries, and support requests through automated workflows.
+### AI Booking Agent
+An AI-powered assistant that manages bookings, cancellations, inquiries, and customer support.
+
+**Tech:** n8n · Claude · WhatsApp · Google Sheets
 
 ## 📫 Contact Me
 
